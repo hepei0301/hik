@@ -1,8 +1,8 @@
 {
   "private": false,
-  "name": "hik",
-  "version": "1.0.0",
-  "description": "hik project",
+  "name": "ar-eyes",
+  "version": "1.0.2",
+  "description": "ar-eyes project",
   "main": "./index.ts",
   "module": "./index.ts",
   "jsnext:main": "./index.ts",
@@ -19,6 +19,14 @@
     "test": "umi-test",
     "test:coverage": "umi-test --coverage"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hepei0301/hik.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "hepei",
   "gitHooks": {
     "pre-commit": "lint-staged"
   },
@@ -52,6 +60,5 @@
     "prettier": "^2.2.0",
     "typescript": "^4.1.2",
     "yorkie": "^2.0.0"
-  },
-  "author": "hepei"
+  }
 }

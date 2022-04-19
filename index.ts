@@ -1,3 +1,3 @@
-import HIK, { ARWebControlFun } from './src/pages/index';
+import { ARWebControlFun } from './src/pages/index';
 
-export { HIK, ARWebControlFun };
+export { ARWebControlFun };
