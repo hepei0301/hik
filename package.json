@@ -1,7 +1,7 @@
 {
   "private": false,
   "name": "ar-eyes",
-  "version": "1.0.2",
+  "version": "1.0.8",
   "description": "ar-eyes project",
   "main": "./index.ts",
   "module": "./index.ts",

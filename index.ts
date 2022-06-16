@@ -1,3 +1,3 @@
-import { ARWebControlFun } from './src/pages/index';
+import ARContral from './src/pages/index';
 
-export { ARWebControlFun };
+export default ARContral;

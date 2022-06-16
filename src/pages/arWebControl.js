@@ -1,3 +1,5 @@
+/* eslint-disable*/
+/* eslint no-undef: "off"*/
 !(function (t, e) {
   'object' == typeof exports && 'undefined' != typeof module
     ? (module.exports = e(
@@ -40,7 +42,6 @@
       )
     : ((t = t || self).ARWebControl = e());
 })(this, function () {
-  'use strict';
   function t(t, e) {
     return t((e = { exports: {} }), e.exports), e.exports;
   }
